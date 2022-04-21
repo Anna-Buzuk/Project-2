@@ -1,0 +1,210 @@
+body{
+    width: 1600px;
+    margin: auto;
+    background-color: rgb(141, 3, 3);
+}
+
+li {
+    list-style-type: none; 
+   }
+
+/*header*/
+.heading-dog{
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.heading-dog-big{
+    position: absolute;
+    top: 5%;
+    left: 40%;
+}
+
+.chief-dog{
+    width: 1600px;
+    height: 800px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-dog{
+font-size: 30px;
+padding-left: 100px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.text-dog-two{
+font-size: 70px;
+padding-left: 5px;
+}
+
+
+/*cont 1*/
+
+.first-part{
+position: relative;
+margin-left: 250px;
+width: 800px;
+height: 400px;
+margin: auto;
+margin-bottom: 300px;
+}
+
+.first-part-one{
+width: 270px;
+height: 300px;
+background-color: black;
+}
+
+.one-text{
+color: white;
+}
+
+.one-pict{
+fill: white;
+}
+
+
+
+
+.first-part-tu{
+width: 270px;
+height: 300px;
+background-color: white;
+    
+}
+
+
+
+.tu-text{
+margin-top: -55px;
+}
+
+
+.first-part-three{
+    position: absolute;
+    top: 0;
+    left: 300px;
+    width: 270px;
+    height: 300px;
+    background-color: white;
+    
+}
+
+.three-text{
+    margin-top: -55px; 
+}
+
+.first-part-four{
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    width: 270px;
+    height: 300px;
+}
+
+
+
+.first-part-five{
+    position: absolute;
+    top: 0px;
+    left:600px;
+    width: 270px;
+    height: 300px;
+}
+
+.first-part-six{
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    width: 270px;
+    height: 300px;
+
+}
+
+.six-text{
+    margin-top: -55px;  
+}
+
+/*cont 2*/
+
+.part-cat{
+position: relative;
+}
+
+.part-text-one{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    color: white;
+    font-size: 50px;
+}
+
+.part-text-tu{
+    color: white;
+    position: absolute;
+    top: 35%;
+    left:25%;
+    font-size: 35px;
+}
+
+/*cont 3*/
+.part-dog{
+position: relative;
+width: auto;
+height: 500px;
+background-color: antiquewhite;
+}
+
+.part-dog-one{
+margin-left: 20%;
+padding-top: 5%;
+}
+
+.part-dog-tu{
+margin-left: 18%;
+padding-top: 1%;
+}
+
+.part-dog-free{
+margin-left: 14%;
+padding-top: 1%;
+}
+
+
+.part-dog-pict{
+position: absolute;
+top: 10% ;
+left: 45% ;
+}
+
+
+
+
+
+
+
+.dog-muzzle{
+position: relative;
+width: auto;
+height: 500px;
+background-color: antiquewhite;  
+}
+
+.part-pict-middle{
+position: absolute;
+top: 0;
+left: 400px;
+}
+
+.muzzle-text{
+    position: absolute;
+    top:0 ;
+    left: 80%;
+
+}
+
+.muzzle-icon{
+    position: absolute;
+    left: 80%;
+}
